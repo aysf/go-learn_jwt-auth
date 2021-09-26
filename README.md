@@ -8,4 +8,11 @@ This application is created based tutorial "React and Golang JWT Authentication 
 2. Go to `your_local_dir` and run `git submodule update --init --recursive`
 3. set the `.env` file and put `DB_USERNAME` and `DB_PASSWORD` with your local machine configuration
 4. run the backend apps `go run main.go`
-5. go to submodule folder `view` and run frontend (react) app `node install && npm start`
+5. go to submodule folder `view` and run frontend (react) app `npm install && npm start`
+
+## .env example
+
+```sh
+DB_USERNAME="username"
+DB_PASSWORD="secret"
+```
