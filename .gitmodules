@@ -1,0 +1,4 @@
+[submodule "view"]
+	path = view
+	url = https://github.com/aysf/go-learn_jwt-auth_view.git
+	branch = main
