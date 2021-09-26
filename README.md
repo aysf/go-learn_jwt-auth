@@ -1,6 +1,6 @@
 # Golang JWT Authentication with React as Frontend
 
-this application is created based tutorial "React and Golang JWT Authentication - Tutorial" from freeCodeCamp.org.
+This application is created based tutorial "React and Golang JWT Authentication - Tutorial" from freeCodeCamp.org.
 
 ## Getting Start
 
